@@ -10,7 +10,7 @@
  - [MTGTOP8](http://mtgtop8.com/) - Колоды с топовых зарубежных турниров
  - [Поиск по базе карт MTG Magic: The Gathering](http://magiccards.info/)
 ## Правила
- - [Академия Магии](http://mymagic.ru/beginners/learn-to-win.html) - Колоды с топовых зарубежных турниров
+ - [Академия Магии](http://mymagic.ru/beginners/learn-to-win.html)
  - [Правила MTG на русском](http://mtg.summoning.ru/)
 ## Каналы на YouTube
   - [Tolarian Community College](https://www.youtube.com/user/tolariancommunity)
