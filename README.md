@@ -1,5 +1,11 @@
 # Awesome Magic: The Gathering ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-A curated list of amazingly awesome Magic: The Gathering resources.
+Потрясающий список ресурсов о Magic: The Gathering на русском.
 
-* YouTube Channels
-  * [Tolarian Community College](https://www.youtube.com/user/tolariancommunity)
+## Официальные ресурсы
+ - [Официальный сайт](http://magic.wizards.com)
+ - [База данных карт](http://gatherer.wizards.com/)
+ - [Локатор](http://locator.wizards.com/)
+ - [Magic Online](http://magic.wizards.com/en/content/magic-online-products-game-info)
+## Приложения для Android
+## Каналы на YouTube
+  - [Tolarian Community College](https://www.youtube.com/user/tolariancommunity)
