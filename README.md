@@ -6,6 +6,7 @@
  - [База данных карт](http://gatherer.wizards.com/)
  - [Локатор](http://locator.wizards.com/)
  - [Magic Online](http://magic.wizards.com/en/content/magic-online-products-game-info)
-## Приложения для Android
+## Правила
+ - [Правила MTG на русском](http://mtg.summoning.ru/)
 ## Каналы на YouTube
   - [Tolarian Community College](https://www.youtube.com/user/tolariancommunity)
