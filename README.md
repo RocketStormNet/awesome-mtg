@@ -10,6 +10,7 @@
  - [MTGTOP8](http://mtgtop8.com/) - Колоды с топовых зарубежных турниров
  - [Поиск по базе карт MTG Magic: The Gathering](http://magiccards.info/)
  - [MTGGoldfish](https://www.mtggoldfish.com/)
+ - [TOPdeck.ru](http://topdeck.ru/forum/) -  Русский форум игроков MtG
 ## Правила
  - [Академия Магии](http://mymagic.ru/beginners/learn-to-win.html)
  - [Правила MTG на русском](http://mtg.summoning.ru/)
