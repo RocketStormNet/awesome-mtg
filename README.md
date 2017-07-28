@@ -11,6 +11,7 @@
  - [Поиск по базе карт MTG Magic: The Gathering](http://magiccards.info/)
  - [MTGGoldfish](https://www.mtggoldfish.com/)
  - [TOPdeck.ru](http://topdeck.ru/forum/) -  Русский форум игроков MtG
+ - [MtgTrade.net](http://mtgtrade.net/) - Торговая площадка картами Magic: the Gathering
 ## Правила
  - [Академия Магии](http://mymagic.ru/beginners/learn-to-win.html)
  - [Правила MTG на русском](http://mtg.summoning.ru/)
